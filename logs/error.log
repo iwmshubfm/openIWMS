@@ -1,5 +1,0 @@
-[ERROR] : 2023-04-29T15:30:16.989Z Accessing view name: {"viewName":"test"}
-[ERROR] : 2023-04-29T15:31:54.837Z Accessing view name: {"module":"test","task":"123"}
-[ERROR] : 2023-04-29T15:37:30.607Z Required parameters not found: [object Object]
-[ERROR] : 2023-04-29T15:38:09.023Z Required parameters not found: {"module":"test","task":"123"}
-[ERROR] : 2023-04-29T15:38:28.512Z Required parameters not found: {"module":"test","task":"123"}
